@@ -93,3 +93,8 @@ main {
 	justify-content: center;
 	align-items: center;
 }
+
+body{
+	display: flex;
+	flex-direction: column;
+}
